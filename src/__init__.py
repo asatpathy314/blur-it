@@ -1,0 +1,1 @@
+model_path = 'model/blaze_face_short_range.tflite'
